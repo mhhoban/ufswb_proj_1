@@ -1,8 +1,6 @@
 
 class Movie:
 
-    VALID_RATINGS = ['G', 'PG', 'PG-13', 'R']
-
     def __init__(self, title, summary, poster, trailer_youtube_url):
         self.title = title
         self.summary = summary
