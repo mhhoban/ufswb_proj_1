@@ -3,7 +3,7 @@ import fresh_tomatoes
 
 # instantiate Movie object for "Aliens"
 aliens = media.Movie('Aliens',
-                     'The face suckers return',
+                     'The face suckers return!',
                      'https://upload.wikimedia.org/wikipedia/en/f/fb/Aliens_'
                      'poster.jpg',
                      'https://www.youtube.com/watch?v=AW-7_HE98PY'
@@ -21,7 +21,7 @@ conan_the_barbarian = media.Movie('Conan',
 # instantiate Movie object for "The Man From Earth"
 man_from_earth = media.Movie('The Man From Earth',
                              'Cave man Professor lays'
-                             'down knowledge',
+                             'down some philosophy of history.',
                              'https://upload.wikimedia.org/wikipedia/en/3/3b/'
                              'The_Man_from_Earth.png',
                              'https://www.youtube.com/watch?v=lVMhEAI3pvg'
@@ -29,7 +29,7 @@ man_from_earth = media.Movie('The Man From Earth',
 
 # instantiate Movie object for "Interview With The Vampire"
 interview_with_a_vampire = media.Movie('Interview With The Vampire',
-                                       'The Vampire Tells All',
+                                       'The Vampire Tells All!',
                                        'https://upload.wikimedia.org/wikipedia'
                                        '/en/f/fe/InterviewwithaVampireMoviePos'
                                        'te.JPG',
