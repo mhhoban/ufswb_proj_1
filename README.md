@@ -9,13 +9,13 @@ to youtube trailers for the movies.
 This project requires you to have installed the Python 2.7 Interpreter on your
 system.
 
-#Setup
+#Setup:
 
 This project repository comes with all the files necessary to generate
 the movie trailer web page. Run `python entertainment_center.py` from the
 project directory. This will generate the .html file for the page in the
 project directory and launch the page in your default browser.
 
-#License
+#License:
 Project is freely open source under the terms of the
 [MIT License](http://choosealicense.com/licenses/mit/)
